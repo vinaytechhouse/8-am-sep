@@ -1,0 +1,3 @@
+Refer to the end-end case study deployment pipeline concept videos.
+13) ***Case Study (end-end)_near_real-time environment***
+12_Deployment_Process_Pipelines_Access_Options
